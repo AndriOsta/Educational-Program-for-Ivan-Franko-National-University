@@ -1,0 +1,4 @@
+include 'ui', 'controller', 'facade', 'converter', 'service', 'persistence', 'domain', 'dto'
+include 'дшщ'
+include 'яя'
+
